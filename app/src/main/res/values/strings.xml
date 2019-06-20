@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">zooo</string>
+    <string name="uno">Instituto Tecnológico</string>
+    <string name="dos">Iztapalapa III</string>
+    <string name="tres">Carrera:Ingenieria Informatica</string>
+    <string name="cuatro">Materia:Programacion en Android</string>
+    <string name="cinco">cinco</string>
+    <string name="fin">Profesor:Layonet Salvador Buenrostro</string>
+    <string name="fin1">Alumnos:Torres Romero Aaron Alberto</string>
+    <string name="fin3">Cid Mendoza Guadalupe</string>
+    <string name="fin4">Proposito de la aplicacion: Conocer a los animales</string>
+    <string name="seis">Tipos de animales </string>
+    <string name="siete">zooo</string>
+    <string name="v">zooo</string>
+    <string name="H">zooo</string>
+
+    <string name="A">VERTEBRADOS</string>
+    <string name="B">Los vertebrados son un subfilo muy diverso de cordados que comprende a los animales con espina dorsal o columna vertebral, compuesta de vértebras. Incluye casi 62 000 especies actuales​ y muchos fósiles. Los vertebrados han logrado adaptarse a diferentes ambientes, incluidos los más difíciles e inhóspitos</string>
+    <string name="C">PECES</string>
+    <string name="D">ANFIBIOS</string>
+    <string name="F">REPTILES</string>
+    <string name="G">AVES</string>
+    <string name="I">MAMIFEROS</string>
+    <string name="J">REGRESAR</string>
+
+    <string name="AA">INVERTEBRADOS</string>
+    <string name="AB">Se denomina invertebrados a todos aquellos animales que no se encuadran dentro del subfilo vertebrados del filo cordados.</string>
+    <string name="AC">PORIFEROS</string>
+    <string name="AD">CELENTERADOS</string>
+    <string name="AE">GUSANOS</string>
+    <string name="AF">MOLUSCOS</string>
+    <string name="AG">ARTOPRODOS</string>
+    <string name="AH">EQUINODERMO</string>
+    <string name="AI">REGRESAR</string>
+    <string name="REDES">top animales en extincion</string>
+    <string name="WEB">regresar</string>
+    <string name="WEB1">Top animales en extincion</string>
+
+    <string name="b1">peces</string>
+    <string name="b2">Top animales en extincion</string>
+    <string name="b3">anfibios</string>
+    <string name="b4">Top animales en extincion</string>
+    <string name="b5">reptiles</string>
+    <string name="b6">Top animales en extincion</string>
+    <string name="b7">mamiferos</string>
+    <string name="b8">Top animales en extincion</string>
+    <string name="b9">aves</string>
+    <string name="b10">Top animales en extincion</string>
+
+    <string name="b11">PORIFEROS</string>
+    <string name="b12">Top animales en extincion</string>
+    <string name="b13">CELENTERADOS</string>
+    <string name="b14">Top animales en extincion</string>
+    <string name="b15">GUSANOS</string>
+    <string name="b16">Top animales en extincion</string>
+    <string name="b17">MOLUSCOS</string>
+    <string name="b18">Top animales en extincion</string>
+    <string name="b19">ARTOPRODOS</string>
+    <string name="b20">Top animales en extincion</string>
+    <string name="b21">EQUINODERMOS</string>
+    <string name="b22">Top animales en extincion</string>
+</resources>

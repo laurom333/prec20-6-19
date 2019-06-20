@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.licom.zooo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SegundoActivity" />
+        <activity android:name=".verte" />
+        <activity android:name=".inverte" />
+        <activity android:name=".WEB" />
+        <activity android:name=".PECES" />
+        <activity android:name=".ANFIBIOS" />
+        <activity android:name=".REPTILES" />
+        <activity android:name=".MAMIFEROS" />
+        <activity android:name=".AVES" />
+        <activity android:name=".PORIFEROS" />
+        <activity android:name=".CELENTERADOS" />
+        <activity android:name=".GUSANOS" />
+        <activity android:name=".MOLUSCOS" />
+        <activity android:name=".ARTOPRODOS" />
+        <activity android:name=".EQUINODERMO"></activity>
+    </application>
+
+</manifest>
